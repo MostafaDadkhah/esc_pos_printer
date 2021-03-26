@@ -9,7 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  esc_pos_utils: ^1.0.0
+  esc_pos_utils: 
+    git : https://github.com/MostafaDadkhah/esc_pos_utils.git
   escposprinter:
     git: https://github.com/bailabs/esc-pos-printer-flutter
   # esc_pos_utils:
